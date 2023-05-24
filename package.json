@@ -1,6 +1,6 @@
 {
-  "name": "@defiwallet/crypto-db",
-  "version": "1.0.0",
+  "name": "@lyfebloc/defiwallet-crypto-db",
+  "version": "2.0.0",
   "description": "Crypto DB",
   "repository": "git@github.com:lyfebloc/defiwallet-crypto-db.git",
   "author": "Defi Wallet <support@defiwallet.fi> (https://defiwallet.fi)",
