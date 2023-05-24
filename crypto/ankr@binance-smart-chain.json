@@ -1,0 +1,19 @@
+{
+  "_id": "ankr@binance-smart-chain",
+  "asset": "ankr",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Ankr",
+  "symbol": "ANKR",
+  "address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3",
+  "decimals": 18,
+  "logo": "ankr.svg",
+  "coingecko": {
+    "id": "ankr",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 3783,
+    "slug": "ankr"
+  }
+}

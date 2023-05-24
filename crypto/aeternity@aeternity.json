@@ -1,0 +1,21 @@
+{
+  "_id": "aeternity@aeternity",
+  "asset": "aeternity",
+  "platform": "aeternity",
+  "type": "coin",
+  "name": "Æternity",
+  "symbol": "AE",
+  "decimals": 12,
+  "logo": "aeternity.svg",
+  "supported": false,
+  "changelly": {
+    "ticker": "ae"
+  },
+  "coingecko": {
+    "id": "aeternity"
+  },
+  "coinmarketcap": {
+    "id": 1700,
+    "slug": "aeternity"
+  }
+}

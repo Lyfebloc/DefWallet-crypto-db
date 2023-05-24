@@ -1,0 +1,26 @@
+{
+  "_id": "orion-protocol@ethereum",
+  "asset": "orion-protocol",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Orion Protocol",
+  "symbol": "ORN",
+  "address": "0x0258f474786ddfd37abce6df6bbb1dd5dfc4434a",
+  "decimals": 8,
+  "logo": "orion-protocol.png",
+  "changelly": {
+    "ticker": "orn"
+  },
+  "coingecko": {
+    "id": "orion-protocol",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5631,
+    "slug": "orion-protocol"
+  },
+  "moonpay": {
+    "id": "f5126e40-42ab-4de2-abd7-c35610860fe0",
+    "code": "orn"
+  }
+}

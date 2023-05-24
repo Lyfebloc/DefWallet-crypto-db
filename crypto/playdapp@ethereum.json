@@ -1,0 +1,22 @@
+{
+  "_id": "playdapp@ethereum",
+  "asset": "playdapp",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "PlayDapp",
+  "symbol": "PLA",
+  "address": "0x3a4f40631a4f906c2bad353ed06de7a5d3fcb430",
+  "decimals": 18,
+  "logo": "playdapp.svg",
+  "changelly": {
+    "ticker": "pla"
+  },
+  "coingecko": {
+    "id": "playdapp",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7461,
+    "slug": "playdapp"
+  }
+}

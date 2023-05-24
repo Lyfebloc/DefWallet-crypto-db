@@ -1,0 +1,28 @@
+{
+  "_id": "cosmos@cosmos",
+  "asset": "cosmos",
+  "platform": "cosmos",
+  "type": "coin",
+  "name": "Cosmos",
+  "symbol": "ATOM",
+  "decimals": 8,
+  "logo": "cosmos.svg",
+  "supported": false,
+  "changelly": {
+    "ticker": "atom"
+  },
+  "coingecko": {
+    "id": "cosmos"
+  },
+  "coinmarketcap": {
+    "id": 3794,
+    "slug": "cosmos"
+  },
+  "moonpay": {
+    "id": "7545c52d-3a9d-40d4-aae5-8fcf42b0f17b",
+    "code": "atom"
+  },
+  "onramper": {
+    "id": "ATOM_COSMOS"
+  }
+}

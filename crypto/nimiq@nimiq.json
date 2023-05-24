@@ -1,0 +1,25 @@
+{
+  "_id": "nimiq@nimiq",
+  "asset": "nimiq",
+  "platform": "nimiq",
+  "type": "coin",
+  "name": "Nimiq",
+  "symbol": "NIM",
+  "decimals": 5,
+  "logo": "nimiq.svg",
+  "supported": false,
+  "changelly": {
+    "ticker": "nim"
+  },
+  "coingecko": {
+    "id": "nimiq-2"
+  },
+  "coinmarketcap": {
+    "id": 2916,
+    "slug": "nimiq"
+  },
+  "moonpay": {
+    "id": "fff90637-d1a7-4927-82d6-8b29af91f4db",
+    "code": "nim"
+  }
+}

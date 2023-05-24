@@ -1,0 +1,22 @@
+{
+  "_id": "injective-protocol@ethereum",
+  "asset": "injective-protocol",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Injective",
+  "symbol": "INJ",
+  "address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+  "decimals": 18,
+  "logo": "injective-protocol.svg",
+  "changelly": {
+    "ticker": "inj"
+  },
+  "coingecko": {
+    "id": "injective-protocol",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7226,
+    "slug": "injective"
+  }
+}

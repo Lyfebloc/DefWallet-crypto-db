@@ -1,0 +1,21 @@
+{
+  "_id": "harmony@harmony",
+  "asset": "harmony",
+  "platform": "harmony",
+  "type": "coin",
+  "name": "Harmony",
+  "symbol": "ONE",
+  "decimals": 18,
+  "logo": "harmony.svg",
+  "supported": false,
+  "changelly": {
+    "ticker": "one"
+  },
+  "coingecko": {
+    "id": "harmony"
+  },
+  "coinmarketcap": {
+    "id": 3945,
+    "slug": "harmony"
+  }
+}

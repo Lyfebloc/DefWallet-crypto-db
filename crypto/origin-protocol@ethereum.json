@@ -1,0 +1,26 @@
+{
+  "_id": "origin-protocol@ethereum",
+  "asset": "origin-protocol",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Origin Protocol",
+  "symbol": "OGN",
+  "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+  "decimals": 18,
+  "logo": "origin-protocol.svg",
+  "changelly": {
+    "ticker": "ogn"
+  },
+  "coingecko": {
+    "id": "origin-protocol",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5117,
+    "slug": "origin-protocol"
+  },
+  "guardarian": {
+    "ticker": "OGN",
+    "network": "ETH"
+  }
+}

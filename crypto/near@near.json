@@ -1,0 +1,22 @@
+{
+  "_id": "near@near",
+  "asset": "near",
+  "platform": "near",
+  "type": "coin",
+  "name": "NEAR Protocol",
+  "symbol": "NEAR",
+  "decimals": 24,
+  "logo": "near.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "near"
+  },
+  "coinmarketcap": {
+    "id": 6535,
+    "slug": "near-protocol"
+  },
+  "moonpay": {
+    "id": "7bbb6187-53ef-4a89-a1a2-e10ccc1d64ca",
+    "code": "near"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "dent@ethereum",
+  "asset": "dent",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Dent",
+  "symbol": "DENT",
+  "address": "0x3597bfd533a99c9aa083587b074434e61eb0a258",
+  "decimals": 8,
+  "logo": "dent.svg",
+  "changelly": {
+    "ticker": "dent"
+  },
+  "coingecko": {
+    "id": "dent",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1886,
+    "slug": "dent"
+  },
+  "guardarian": {
+    "ticker": "DENT",
+    "network": "ETH"
+  }
+}

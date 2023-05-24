@@ -1,0 +1,22 @@
+{
+  "_id": "marlin@ethereum",
+  "asset": "marlin",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Marlin",
+  "symbol": "POND",
+  "address": "0x57b946008913b82e4df85f501cbaed910e58d26c",
+  "decimals": 18,
+  "logo": "marlin.png",
+  "changelly": {
+    "ticker": "pond"
+  },
+  "coingecko": {
+    "id": "marlin",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 7497,
+    "slug": "marlin"
+  }
+}

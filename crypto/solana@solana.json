@@ -1,0 +1,31 @@
+{
+  "_id": "solana@solana",
+  "asset": "solana",
+  "platform": "solana",
+  "type": "coin",
+  "name": "Solana",
+  "symbol": "SOL",
+  "decimals": 9,
+  "logo": "solana.svg",
+  "changelly": {
+    "ticker": "sol"
+  },
+  "coingecko": {
+    "id": "solana"
+  },
+  "coinmarketcap": {
+    "id": 5426,
+    "slug": "solana"
+  },
+  "guardarian": {
+    "ticker": "SOL",
+    "network": "SOL"
+  },
+  "moonpay": {
+    "id": "df3cc2d2-6ea5-4b61-9309-5923c0767a54",
+    "code": "sol"
+  },
+  "onramper": {
+    "id": "SOL"
+  }
+}

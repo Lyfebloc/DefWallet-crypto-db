@@ -1,0 +1,26 @@
+{
+  "_id": "biswap@binance-smart-chain",
+  "asset": "biswap",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Biswap",
+  "symbol": "BSW",
+  "address": "0x965f527d9159dce6288a2219db51fc6eef120dd1",
+  "decimals": 18,
+  "logo": "biswap.svg",
+  "changelly": {
+    "ticker": "bsw"
+  },
+  "coingecko": {
+    "id": "biswap",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 10746,
+    "slug": "biswap"
+  },
+  "guardarian": {
+    "ticker": "BSW",
+    "network": "BSC"
+  }
+}

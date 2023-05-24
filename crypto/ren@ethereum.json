@@ -1,0 +1,26 @@
+{
+  "_id": "ren@ethereum",
+  "asset": "ren",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Ren",
+  "symbol": "REN",
+  "address": "0x408e41876cccdc0f92210600ef50372656052a38",
+  "decimals": 18,
+  "logo": "ren.svg",
+  "changelly": {
+    "ticker": "ren"
+  },
+  "coingecko": {
+    "id": "republic-protocol",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2539,
+    "slug": "ren"
+  },
+  "guardarian": {
+    "ticker": "REN",
+    "network": "ETH"
+  }
+}

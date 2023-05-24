@@ -1,0 +1,25 @@
+{
+  "_id": "vechain@vechain",
+  "asset": "vechain",
+  "platform": "vechain",
+  "type": "coin",
+  "name": "VeChain",
+  "symbol": "VET",
+  "decimals": 2,
+  "logo": "vechain.svg",
+  "supported": false,
+  "changelly": {
+    "ticker": "vet"
+  },
+  "coingecko": {
+    "id": "vechain"
+  },
+  "coinmarketcap": {
+    "id": 3077,
+    "slug": "vechain"
+  },
+  "moonpay": {
+    "id": "20643163-dc07-4fa7-aee0-d40c0e522f2a",
+    "code": "vet"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "hedera-hashgraph@hedera-hashgraph",
+  "asset": "hedera-hashgraph",
+  "platform": "hedera-hashgraph",
+  "type": "coin",
+  "name": "Hedera",
+  "symbol": "HBAR",
+  "decimals": 8,
+  "logo": "hedera-hashgraph.svg",
+  "supported": false,
+  "changelly": {
+    "ticker": "hbar"
+  },
+  "coingecko": {
+    "id": "hedera-hashgraph"
+  },
+  "coinmarketcap": {
+    "id": 4642,
+    "slug": "hedera"
+  },
+  "moonpay": {
+    "id": "c58a008b-2f93-4faf-b6d3-83e004d23d4a",
+    "code": "hbar"
+  }
+}

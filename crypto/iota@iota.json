@@ -1,0 +1,22 @@
+{
+  "_id": "iota@iota",
+  "asset": "iota",
+  "platform": "iota",
+  "type": "coin",
+  "name": "IOTA",
+  "symbol": "MIOTA",
+  "decimals": 6,
+  "logo": "iota.svg",
+  "supported": false,
+  "coingecko": {
+    "id": "iota"
+  },
+  "coinmarketcap": {
+    "id": 1720,
+    "slug": "iota"
+  },
+  "moonpay": {
+    "id": "37025f7b-5611-4f71-bb6c-aed3048e6954",
+    "code": "miota"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_id": "dash@dash",
+  "asset": "dash",
+  "platform": "dash",
+  "type": "coin",
+  "name": "Dash",
+  "symbol": "DASH",
+  "decimals": 8,
+  "logo": "dash.svg",
+  "scheme": "dash",
+  "changelly": {
+    "ticker": "dash"
+  },
+  "coingecko": {
+    "id": "dash"
+  },
+  "coinmarketcap": {
+    "id": 131,
+    "slug": "dash"
+  },
+  "guardarian": {
+    "ticker": "DASH",
+    "network": "DASH"
+  },
+  "onramper": {
+    "id": "DASH_DASH"
+  }
+}

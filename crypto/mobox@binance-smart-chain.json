@@ -1,0 +1,26 @@
+{
+  "_id": "mobox@binance-smart-chain",
+  "asset": "mobox",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "MOBOX",
+  "symbol": "MBOX",
+  "address": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
+  "decimals": 18,
+  "logo": "mobox.png",
+  "changelly": {
+    "ticker": "mbox"
+  },
+  "coingecko": {
+    "id": "mobox",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 9175,
+    "slug": "mobox"
+  },
+  "guardarian": {
+    "ticker": "MBOX",
+    "network": "BSC"
+  }
+}

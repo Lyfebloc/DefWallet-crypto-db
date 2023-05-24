@@ -1,0 +1,32 @@
+{
+  "_id": "cardano@cardano",
+  "asset": "cardano",
+  "platform": "cardano",
+  "type": "coin",
+  "name": "Cardano",
+  "symbol": "ADA",
+  "decimals": 6,
+  "logo": "cardano.svg",
+  "scheme": "cardano",
+  "changelly": {
+    "ticker": "ada"
+  },
+  "coingecko": {
+    "id": "cardano"
+  },
+  "coinmarketcap": {
+    "id": 2010,
+    "slug": "cardano"
+  },
+  "guardarian": {
+    "ticker": "ADA",
+    "network": "ADA"
+  },
+  "moonpay": {
+    "id": "1440a41c-d03d-4047-a3b3-a6ddac63598e",
+    "code": "ada"
+  },
+  "onramper": {
+    "id": "ADA_CARDANO"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_id": "curve-dao-token@ethereum",
+  "asset": "curve-dao-token",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Curve DAO Token",
+  "symbol": "CRV",
+  "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+  "decimals": 18,
+  "logo": "curve-dao-token.svg",
+  "changelly": {
+    "ticker": "crv"
+  },
+  "coingecko": {
+    "id": "curve-dao-token",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6538,
+    "slug": "curve-dao-token"
+  }
+}

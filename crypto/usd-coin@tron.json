@@ -1,0 +1,28 @@
+{
+  "_id": "usd-coin@tron",
+  "asset": "usd-coin",
+  "platform": "tron",
+  "type": "token",
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "address": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+  "decimals": 6,
+  "logo": "usd-coin.svg",
+  "changelly": {
+    "ticker": "usdctrx"
+  },
+  "coingecko": {
+    "id": "usd-coin"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  },
+  "guardarian": {
+    "ticker": "USDC",
+    "network": "TRX"
+  },
+  "onramper": {
+    "id": "USDC_TRON"
+  }
+}

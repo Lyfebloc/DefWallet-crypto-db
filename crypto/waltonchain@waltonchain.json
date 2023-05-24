@@ -1,0 +1,21 @@
+{
+  "_id": "waltonchain@waltonchain",
+  "asset": "waltonchain",
+  "platform": "waltonchain",
+  "type": "coin",
+  "name": "Waltonchain",
+  "symbol": "WTC",
+  "decimals": 6,
+  "logo": "waltonchain.svg",
+  "supported": false,
+  "changelly": {
+    "ticker": "wtc"
+  },
+  "coingecko": {
+    "id": "waltonchain"
+  },
+  "coinmarketcap": {
+    "id": 1925,
+    "slug": "waltonchain"
+  }
+}

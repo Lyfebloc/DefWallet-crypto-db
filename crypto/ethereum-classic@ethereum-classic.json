@@ -1,0 +1,31 @@
+{
+  "_id": "ethereum-classic@ethereum-classic",
+  "asset": "ethereum-classic",
+  "platform": "ethereum-classic",
+  "type": "coin",
+  "name": "Ethereum Classic",
+  "symbol": "ETC",
+  "decimals": 18,
+  "logo": "ethereum-classic.svg",
+  "changelly": {
+    "ticker": "etc"
+  },
+  "coingecko": {
+    "id": "ethereum-classic"
+  },
+  "coinmarketcap": {
+    "id": 1321,
+    "slug": "ethereum-classic"
+  },
+  "guardarian": {
+    "ticker": "ETC",
+    "network": "ETC"
+  },
+  "moonpay": {
+    "id": "1855d4af-6701-406f-9cda-3d47e746f686",
+    "code": "etc"
+  },
+  "onramper": {
+    "id": "ETC_ETHEREUMCLASSIC"
+  }
+}

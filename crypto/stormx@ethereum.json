@@ -1,0 +1,30 @@
+{
+  "_id": "stormx@ethereum",
+  "asset": "stormx",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "StormX",
+  "symbol": "STMX",
+  "address": "0xa62cc35625b0c8dc1faea39d33625bb4c15bd71c",
+  "decimals": 18,
+  "logo": "stormx.png",
+  "changelly": {
+    "ticker": "stmx"
+  },
+  "coingecko": {
+    "id": "storm",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2297,
+    "slug": "stormx"
+  },
+  "guardarian": {
+    "ticker": "STMX",
+    "network": "ETH"
+  },
+  "moonpay": {
+    "id": "6b47d48b-5c96-465a-9d76-88c2dd33131a",
+    "code": "stmx"
+  }
+}

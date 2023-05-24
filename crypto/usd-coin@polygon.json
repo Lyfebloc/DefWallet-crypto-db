@@ -1,0 +1,30 @@
+{
+  "_id": "usd-coin@polygon",
+  "asset": "usd-coin",
+  "platform": "polygon",
+  "type": "token",
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
+  "decimals": 6,
+  "logo": "usd-coin.svg",
+  "coingecko": {
+    "id": "usd-coin",
+    "platform": "polygon-pos"
+  },
+  "coinmarketcap": {
+    "id": 3408,
+    "slug": "usd-coin"
+  },
+  "guardarian": {
+    "ticker": "USDC",
+    "network": "MATIC"
+  },
+  "moonpay": {
+    "id": "1501ea35-9c89-4c1e-ae57-4a19d5a635db",
+    "code": "usdc_polygon"
+  },
+  "onramper": {
+    "id": "USDC_POLYGON"
+  }
+}

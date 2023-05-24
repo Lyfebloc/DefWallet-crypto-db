@@ -1,0 +1,30 @@
+{
+  "_id": "utrust@ethereum",
+  "asset": "utrust",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Utrust",
+  "symbol": "UTK",
+  "address": "0xdc9ac3c20d1ed0b540df9b1fedc10039df13f99c",
+  "decimals": 18,
+  "logo": "utrust.svg",
+  "changelly": {
+    "ticker": "utk"
+  },
+  "coingecko": {
+    "id": "utrust",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2320,
+    "slug": "utrust"
+  },
+  "guardarian": {
+    "ticker": "UTK",
+    "network": "ETH"
+  },
+  "moonpay": {
+    "id": "e5626cbd-0559-4624-8df2-7353b93856ad",
+    "code": "utk"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "cartesi@binance-smart-chain",
+  "asset": "cartesi",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Cartesi",
+  "symbol": "CTSI",
+  "address": "0x8da443f84fea710266c8eb6bc34b71702d033ef2",
+  "decimals": 18,
+  "logo": "cartesi.svg",
+  "changelly": {
+    "ticker": "ctsi"
+  },
+  "coingecko": {
+    "id": "cartesi",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 5444,
+    "slug": "cartesi"
+  },
+  "guardarian": {
+    "ticker": "CTSI",
+    "network": "BSC"
+  }
+}

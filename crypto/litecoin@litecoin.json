@@ -1,0 +1,37 @@
+{
+  "_id": "litecoin@litecoin",
+  "asset": "litecoin",
+  "platform": "litecoin",
+  "type": "coin",
+  "name": "Litecoin",
+  "symbol": "LTC",
+  "decimals": 8,
+  "logo": "litecoin.svg",
+  "scheme": "litecoin",
+  "btcdirect": {
+    "currencyPair": [
+      "LTC-EUR"
+    ]
+  },
+  "changelly": {
+    "ticker": "ltc"
+  },
+  "coingecko": {
+    "id": "litecoin"
+  },
+  "coinmarketcap": {
+    "id": 2,
+    "slug": "litecoin"
+  },
+  "guardarian": {
+    "ticker": "LTC",
+    "network": "LTC"
+  },
+  "moonpay": {
+    "id": "84bf7e0f-0a16-4486-8ba7-e80edcf5331e",
+    "code": "ltc"
+  },
+  "onramper": {
+    "id": "LTC_LITECOIN"
+  }
+}

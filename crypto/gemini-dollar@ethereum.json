@@ -1,0 +1,26 @@
+{
+  "_id": "gemini-dollar@ethereum",
+  "asset": "gemini-dollar",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Gemini Dollar",
+  "symbol": "GUSD",
+  "address": "0x056fd409e1d7a124bd7017459dfea2f387b6d5cd",
+  "decimals": 2,
+  "logo": "gemini-dollar.svg",
+  "changelly": {
+    "ticker": "gusd"
+  },
+  "coingecko": {
+    "id": "gemini-dollar",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3306,
+    "slug": "gemini-dollar"
+  },
+  "guardarian": {
+    "ticker": "GUSD",
+    "network": "ETH"
+  }
+}

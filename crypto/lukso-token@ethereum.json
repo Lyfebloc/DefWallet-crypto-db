@@ -1,0 +1,19 @@
+{
+  "_id": "lukso-token@ethereum",
+  "asset": "lukso-token",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "LUKSO",
+  "symbol": "LYXE",
+  "address": "0xa8b919680258d369114910511cc87595aec0be6d",
+  "decimals": 18,
+  "logo": "lukso-token.png",
+  "coingecko": {
+    "id": "lukso-token",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5625,
+    "slug": "lukso"
+  }
+}

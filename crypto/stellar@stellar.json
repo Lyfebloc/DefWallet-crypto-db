@@ -1,0 +1,32 @@
+{
+  "_id": "stellar@stellar",
+  "asset": "stellar",
+  "platform": "stellar",
+  "type": "coin",
+  "name": "Stellar",
+  "symbol": "XLM",
+  "decimals": 7,
+  "logo": "stellar.svg",
+  "scheme": "stellar",
+  "changelly": {
+    "ticker": "xlm"
+  },
+  "coingecko": {
+    "id": "stellar"
+  },
+  "coinmarketcap": {
+    "id": 512,
+    "slug": "stellar"
+  },
+  "guardarian": {
+    "ticker": "XLM",
+    "network": "XLM"
+  },
+  "moonpay": {
+    "id": "c8b1ef20-3703-4a66-9ea1-c13ce0d893bf",
+    "code": "xlm"
+  },
+  "onramper": {
+    "id": "XLM_STELLAR"
+  }
+}

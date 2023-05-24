@@ -1,0 +1,29 @@
+{
+  "_id": "tether@binance-smart-chain",
+  "asset": "tether",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "Tether",
+  "symbol": "USDT",
+  "address": "0x55d398326f99059ff775485246999027b3197955",
+  "decimals": 18,
+  "logo": "tether.svg",
+  "changelly": {
+    "ticker": "usdtbsc"
+  },
+  "coingecko": {
+    "id": "tether",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 825,
+    "slug": "tether"
+  },
+  "guardarian": {
+    "ticker": "USDT",
+    "network": "BSC"
+  },
+  "onramper": {
+    "id": "USDT_BSC"
+  }
+}

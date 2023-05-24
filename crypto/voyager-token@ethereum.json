@@ -1,0 +1,22 @@
+{
+  "_id": "voyager-token@ethereum",
+  "asset": "voyager-token",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Voyager Token",
+  "symbol": "VGX",
+  "address": "0x3c4b6e6e1ea3d4863700d7f76b36b7f3d3f13e3d",
+  "decimals": 8,
+  "logo": "voyager-token.png",
+  "changelly": {
+    "ticker": "vgx"
+  },
+  "coingecko": {
+    "id": "ethos",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 1817,
+    "slug": "voyager-token"
+  }
+}

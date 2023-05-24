@@ -1,0 +1,37 @@
+{
+  "_id": "bitcoin-cash@bitcoin-cash",
+  "asset": "bitcoin-cash",
+  "platform": "bitcoin-cash",
+  "type": "coin",
+  "name": "Bitcoin Cash",
+  "symbol": "BCH",
+  "decimals": 8,
+  "logo": "bitcoin-cash.svg",
+  "scheme": "bitcoincash",
+  "btcdirect": {
+    "currencyPair": [
+      "BCH-EUR"
+    ]
+  },
+  "changelly": {
+    "ticker": "bch"
+  },
+  "coingecko": {
+    "id": "bitcoin-cash"
+  },
+  "coinmarketcap": {
+    "id": 1831,
+    "slug": "bitcoin-cash"
+  },
+  "guardarian": {
+    "ticker": "BCH",
+    "network": "BCH"
+  },
+  "moonpay": {
+    "id": "b01f8f58-f915-491b-aadb-7ba6b966c861",
+    "code": "bch"
+  },
+  "onramper": {
+    "id": "BCH_BITCOINCASH"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_id": "binance-coin@binance-chain",
+  "asset": "binance-coin",
+  "platform": "binance-chain",
+  "type": "coin",
+  "name": "Binance Chain",
+  "symbol": "BNB",
+  "decimals": 8,
+  "logo": "binance-chain.svg",
+  "supported": false,
+  "changelly": {
+    "ticker": "bnb"
+  },
+  "coingecko": {
+    "id": "binancecoin"
+  },
+  "coinmarketcap": {
+    "id": 1839,
+    "slug": "bnb"
+  },
+  "moonpay": {
+    "id": "c27c7038-7382-4ea9-a766-e37972f022e0",
+    "code": "bnb"
+  }
+}

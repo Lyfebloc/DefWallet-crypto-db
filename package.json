@@ -1,0 +1,31 @@
+{
+  "name": "@defiwallet/crypto-db",
+  "version": "1.0.0",
+  "description": "Crypto DB",
+  "repository": "git@github.com:lyfebloc-defiwallet-crypto-db.git",
+  "author": "Defi Wallet <support@defiwallet.fi> (https://defiwallet.fi)",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint index.js"
+
+},
+"devDependencies": {
+  "eslint": "^8.15.0",
+  "eslint-config-defiwallet": "^2.1.1"
+},
+"eslintConfig": {
+  "extends": [
+    "defiwallet"
+  ],
+  "env": {
+    "node": true
+  }
+},
+"parserOptions": {
+  "ecmaVersion": 2022,
+  "requireConfigFile": false,
+  "sourceType": "module"
+}
+}

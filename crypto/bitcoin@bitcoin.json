@@ -1,0 +1,37 @@
+{
+  "_id": "bitcoin@bitcoin",
+  "asset": "bitcoin",
+  "platform": "bitcoin",
+  "type": "coin",
+  "name": "Bitcoin",
+  "symbol": "BTC",
+  "decimals": 8,
+  "logo": "bitcoin.svg",
+  "scheme": "bitcoin",
+  "btcdirect": {
+    "currencyPair": [
+      "BTC-EUR"
+    ]
+  },
+  "changelly": {
+    "ticker": "btc"
+  },
+  "coingecko": {
+    "id": "bitcoin"
+  },
+  "coinmarketcap": {
+    "id": 1,
+    "slug": "bitcoin"
+  },
+  "guardarian": {
+    "ticker": "BTC",
+    "network": "BTC"
+  },
+  "moonpay": {
+    "id": "a18a8d0b-502c-48b9-ab6b-e2638fba5862",
+    "code": "btc"
+  },
+  "onramper": {
+    "id": "BTC"
+  }
+}

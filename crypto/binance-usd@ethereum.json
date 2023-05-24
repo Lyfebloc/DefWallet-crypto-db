@@ -1,0 +1,29 @@
+{
+  "_id": "binance-usd@ethereum",
+  "asset": "binance-usd",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Binance USD",
+  "symbol": "BUSD",
+  "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+  "decimals": 18,
+  "logo": "binance-usd.svg",
+  "changelly": {
+    "ticker": "busd"
+  },
+  "coingecko": {
+    "id": "binance-usd",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 4687,
+    "slug": "binance-usd"
+  },
+  "guardarian": {
+    "ticker": "BUSD",
+    "network": "ETH"
+  },
+  "onramper": {
+    "id": "BUSD_ETHEREUM"
+  }
+}

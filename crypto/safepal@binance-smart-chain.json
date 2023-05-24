@@ -1,0 +1,22 @@
+{
+  "_id": "safepal@binance-smart-chain",
+  "asset": "safepal",
+  "platform": "binance-smart-chain",
+  "type": "token",
+  "name": "SafePal",
+  "symbol": "SFP",
+  "address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb",
+  "decimals": 18,
+  "logo": "safepal.svg",
+  "changelly": {
+    "ticker": "sfp"
+  },
+  "coingecko": {
+    "id": "safepal",
+    "platform": "binance-smart-chain"
+  },
+  "coinmarketcap": {
+    "id": 8119,
+    "slug": "safepal"
+  }
+}

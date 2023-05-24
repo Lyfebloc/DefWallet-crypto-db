@@ -1,0 +1,32 @@
+{
+  "_id": "dogecoin@dogecoin",
+  "asset": "dogecoin",
+  "platform": "dogecoin",
+  "type": "coin",
+  "name": "Dogecoin",
+  "symbol": "DOGE",
+  "decimals": 8,
+  "logo": "dogecoin.svg",
+  "scheme": "dogecoin",
+  "changelly": {
+    "ticker": "doge"
+  },
+  "coingecko": {
+    "id": "dogecoin"
+  },
+  "coinmarketcap": {
+    "id": 74,
+    "slug": "dogecoin"
+  },
+  "guardarian": {
+    "ticker": "DOGE",
+    "network": "DOGE"
+  },
+  "moonpay": {
+    "id": "af950192-8e01-4a84-9807-27f16d88450e",
+    "code": "doge"
+  },
+  "onramper": {
+    "id": "DOGE_DOGECOIN"
+  }
+}

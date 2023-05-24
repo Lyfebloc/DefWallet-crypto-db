@@ -1,0 +1,19 @@
+{
+  "deprecated": true,
+  "_id": "mcdex@ethereum",
+  "asset": "mcdex",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "MCDEX Token",
+  "symbol": "MCB",
+  "address": "0x4e352cf164e64adcbad318c3a1e222e9eba4ce42",
+  "decimals": 18,
+  "coingecko": {
+    "id": "mcdex",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 5956,
+    "slug": "mcdex"
+  }
+}

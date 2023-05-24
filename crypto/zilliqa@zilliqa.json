@@ -1,0 +1,25 @@
+{
+  "_id": "zilliqa@zilliqa",
+  "asset": "zilliqa",
+  "platform": "zilliqa",
+  "type": "coin",
+  "name": "Zilliqa",
+  "symbol": "ZIL",
+  "decimals": 8,
+  "logo": "zilliqa.svg",
+  "supported": false,
+  "changelly": {
+    "ticker": "zil"
+  },
+  "coingecko": {
+    "id": "zilliqa"
+  },
+  "coinmarketcap": {
+    "id": 2469,
+    "slug": "zilliqa"
+  },
+  "moonpay": {
+    "id": "2be78a98-df30-4fb6-9cf0-adee76bd8df6",
+    "code": "zil"
+  }
+}

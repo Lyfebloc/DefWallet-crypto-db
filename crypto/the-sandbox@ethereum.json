@@ -1,0 +1,33 @@
+{
+  "_id": "the-sandbox@ethereum",
+  "asset": "the-sandbox",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "The Sandbox",
+  "symbol": "SAND",
+  "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+  "decimals": 18,
+  "logo": "the-sandbox.svg",
+  "changelly": {
+    "ticker": "sand"
+  },
+  "coingecko": {
+    "id": "the-sandbox",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 6210,
+    "slug": "the-sandbox"
+  },
+  "guardarian": {
+    "ticker": "SAND",
+    "network": "ETH"
+  },
+  "moonpay": {
+    "id": "614c5d2a-0b2f-464a-9569-3dcf0ca0342e",
+    "code": "sand"
+  },
+  "onramper": {
+    "id": "SAND_ETHEREUM"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_id": "synthetix-network-token@ethereum",
+  "asset": "synthetix-network-token",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Synthetix",
+  "symbol": "SNX",
+  "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+  "decimals": 18,
+  "logo": "synthetix-network-token.svg",
+  "changelly": {
+    "ticker": "snx"
+  },
+  "coingecko": {
+    "id": "havven",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2586,
+    "slug": "synthetix"
+  },
+  "guardarian": {
+    "ticker": "SNX",
+    "network": "ETH"
+  },
+  "moonpay": {
+    "id": "b64c1c0c-3896-4192-8c84-c12eeb440a8b",
+    "code": "snx"
+  }
+}

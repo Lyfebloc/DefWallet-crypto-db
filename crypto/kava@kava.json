@@ -1,0 +1,25 @@
+{
+  "_id": "kava@kava",
+  "asset": "kava",
+  "platform": "kava",
+  "type": "coin",
+  "name": "Kava",
+  "symbol": "KAVA",
+  "decimals": 8,
+  "logo": "kava.svg",
+  "supported": false,
+  "changelly": {
+    "ticker": "kava"
+  },
+  "coingecko": {
+    "id": "kava"
+  },
+  "coinmarketcap": {
+    "id": 4846,
+    "slug": "kava"
+  },
+  "moonpay": {
+    "id": "df7964ab-181f-40cf-bdf9-9995484eea3d",
+    "code": "kava"
+  }
+}

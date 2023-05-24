@@ -1,0 +1,26 @@
+{
+  "_id": "quant@ethereum",
+  "asset": "quant",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Quant",
+  "symbol": "QNT",
+  "address": "0x4a220e6096b25eadb88358cb44068a3248254675",
+  "decimals": 18,
+  "logo": "quant.svg",
+  "changelly": {
+    "ticker": "qnt"
+  },
+  "coingecko": {
+    "id": "quant-network",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 3155,
+    "slug": "quant"
+  },
+  "guardarian": {
+    "ticker": "QNT",
+    "network": "ETH"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_id": "huobi-token@ethereum",
+  "asset": "huobi-token",
+  "platform": "ethereum",
+  "type": "token",
+  "name": "Huobi Token",
+  "symbol": "HT",
+  "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+  "decimals": 18,
+  "logo": "huobi-token.svg",
+  "changelly": {
+    "ticker": "ht"
+  },
+  "coingecko": {
+    "id": "huobi-token",
+    "platform": "ethereum"
+  },
+  "coinmarketcap": {
+    "id": 2502,
+    "slug": "huobi-token"
+  },
+  "guardarian": {
+    "ticker": "HT",
+    "network": "ETH"
+  }
+}
